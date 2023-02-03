@@ -45,6 +45,6 @@ go.sum
 
 # Configuration files
 .env
-/db-data/mongo/
-/db-data/postgres/
-/db-data/rabbitmq/
+/db-data/mongo
+/db-data/postgres
+/db-data/rabbitmq
